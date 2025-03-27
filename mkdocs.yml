@@ -41,6 +41,7 @@ theme:
 
 
 nav:
+  - Home: index.md
   - Event Snapshots: Event Snapshots.md
   - Chinese Cuisine:
       - Chinese Cooking Techniques: Chinese Cooking Techniques.md
