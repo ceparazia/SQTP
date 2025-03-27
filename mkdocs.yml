@@ -1,1 +1,115 @@
-site_name: My Docs
+site_name: SQTP:Taste Bud Frontiers Decoded
+site_description: An SQTP result site by a group of Changemakers in ZJU
+#缺少队名
+site_author: (Name?) SQTP Team
+
+theme:
+  name: material   
+  font: 
+    text: M PLUS Rounded 1c
+    code: Roboto Mono  #代码字体
+  # logo: assets/favicon.png #左上角logo，可插入图片链接
+  palette:
+    - scheme: default
+      primary: green #设置顶部颜色  
+      toggle:
+        icon: material/brightness-7
+        name: 切换到夜间模式
+
+    - scheme: slate   #这里设置夜间模式
+      primary: teal  #teal是青色
+      toggle:
+        icon: material/brightness-4
+        name: 切换到光亮模式
+
+  features:
+    - navigation.top # 返回顶部的按钮 在上滑时出现
+    - navigation.tabs  #这句的作用是使得文档第一级现实在页面正上方那一栏
+    - navigation.sections #启用部分后，顶级部分在边栏中呈现为1220px以上视口的组，但在移动设备上保持原样
+    #- navigation.footer #页脚将呈现在边栏中，但在移动设备上保持原样
+    # 感觉页脚有点丑，不想用
+    - navigation.expand
+    - search.suggest # 搜索输入一些字母时推荐补全整个单词
+    - search.highlight # 搜索出的文章关键词加入高亮
+
+  #language: zh
+
+  icon:
+    repo: fontawesome/brands/github #右上角图标
+    logo: logo  #左上角logo
+  
+
+
+nav:
+  - Event Snapshots: Event Snapshots.md
+  - Chinese Cuisine:
+      - Chinese Cooking Techniques: Chinese Cooking Techniques.md
+      - Chinese Culinary Culture: Chinese Culinary Culture.md
+      - Chinese Cuisine in ZJU: Chinese Cuisine in ZJU.md
+  - Linguistic Extensions:
+      - Overview: Overview LE.md
+      - Semiotic Perspective: Semiotic Perspective.md
+      - Phonetic Practice: Phonetic Practice.md
+      - Semantic Field Theory: Semantic Field Theory.md
+      - Sociolinguistics: Sociolinguistics.md
+
+
+extra:
+  analytics:
+    provider: google
+    feedback:
+      title: Is our site helpful?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Yes, it is!
+          data: 1
+          note: >-
+            Thank you!(˵ •̀ ᴗ - ˵ ) ✧
+        
+        - icon: material/thumb-down-outline
+          name: I'm afraid not...
+          data: 0
+          note: >-
+            Thank you for your feedback! (,,>﹏<,,)
+
+
+
+markdown_extensions: #详见https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/ 和 https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/
+  - abbr
+  - attr_list
+  - admonition
+  - def_list
+  - footnotes
+  - md_in_html
+  # - meta # 支持Markdown文件上方自定义标题标签等
+  - pymdownx.caret
+  - pymdownx.betterem
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.smartsymbols
+  - pymdownx.tilde
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format:
+            !!python/name:pymdownx.superfences.fence_code_format # 代码块高亮插件
+  - pymdownx.arithmatex: # latex支持
+      generic: true
+  - toc:
+      permalink: true # 固定标题位置为当前位置
+  - pymdownx.highlight: # 代码块高亮
+      anchor_linenums: true
+      linenums: true # 显示行号
+      # auto_title: true # 显示编程语言名称
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
