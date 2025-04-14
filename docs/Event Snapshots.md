@@ -1,6 +1,6 @@
 # Jiangnan Flavour
 
-<img src="images/1.jpg" alt="图片描述"  />
+![](images/1.jpg)
 
 
 
@@ -69,9 +69,16 @@ Through this event we hope to progress in:
 
 ## Our Unique Cuisine
 
-- Creamy Yam in 3 different flavors:
+- Creamy Yam(1) in 3 different flavors:
+  { .annotate }
 
-  - Sugary osmanthus flower sauce (Made by ourselves⸜(｡˃ ᵕ ˂ )⸝♡!!!)
+    1. Yam(Chinese: 山药/Shānyào): A starchy tuber similar to sweet potato, but stickier when cooked 
+
+  - Sugary osmanthus(1) flower sauce (Made by ourselves⸜(｡˃ ᵕ ˂ )⸝♡!!!)
+    { .annotate }
+
+      1. Osmanthus(Chinese: 桂花/Guìhuā):Fragrant flowers symbolizing prosperity, often candied for desserts
+
   - Blueberry sauce
   - Rose petal sauce (Quite amazing huh?( • ᴗ - ) ✧)
 
@@ -79,7 +86,10 @@ Through this event we hope to progress in:
 
   ![](images/5.jpg)
 
-- Hu's confectionery of the Southern Song Dynasty (or Nan Song Hu Ji)
+- Hu's confectionery(1) of the Southern Song Dynasty (or Nan Song Hu Ji)
+  { .annotate }
+
+    1. Hu's confectionery(Chinese: 南宋胡记/Nán Sòng Hú Jì): A Hangzhou pastry brand reviving 12th-century recipes with modern twists
 
   ![](images/11.jpg)
 
@@ -110,12 +120,9 @@ Through this event we hope to progress in:
 
 
 #### 2.**Steaming as Cultural Signature**
+???+ note
 
-> [!NOTE]
->
-> Actually we used boiling as a substitution of steaming. For the reason, come to **Kitchenantics**.
->
-> ==这里需要一个网页链接==
+    Actually we used boiling as a substitution of steaming. For the reason, come to [**Kitchenantics**](Event Snapshots.md#kitchenantics).
 
 Unlike Western cooking's predominant roasting/baking:
 
@@ -131,8 +138,8 @@ Unlike Western cooking's predominant roasting/baking:
   ![](images/10.jpg)
 
 - Try peeling the yam (Sounds easy but quite slippery on hand! )
-
-  <img src="images/32.jpg"  />
+ 
+  ![](images/32.jpg)
 
   ![](images/33.jpg)
 
@@ -161,68 +168,61 @@ Unlike Western cooking's predominant roasting/baking:
 #### Ingredients
 
 - 1 kg mealy yam (preferably iron-stick yam)
-
 - 1 tbsp white vinegar (for soaking)
-
 - **Coating**: Generous amount of white sugar
-
 - 60g condensed milk
-
 - 65g light cream
 
-  > [!CAUTION]
-  >
-  > Note that excessive light cream will make the yam too thin to shape 
-
-
+???+ caution
+    Note that excessive light cream will make the yam too thin to shape 
 
 #### Steps
 
 1. **Prep the Yam**
 
-   - Wear gloves
+    * Wear gloves
 
-     > [!WARNING]
-     >
-     > Sticky slime on peeled yams will cause an allergic reaction.
-     >
-     > It really iiiiiiiiiiiiiiiiiitches!!!
+    ???+ warning
+        Sticky slime on peeled yams will cause an allergic reaction.
+        
+        It really iiiiiiiiiiiiiiiiiitches!!!
 
-   - Peel and soak in vinegar water (1 tbsp white vinegar + water) for 10 mins to **prevent oxidation** (browning).
+    * Peel and soak in vinegar water (1 tbsp white vinegar + water) for 10 mins to **prevent oxidation** (browning).
 
      ![](images/23.jpg)
 
 2. **Clean & Cut**
 
-   - Scrub yam segments in vinegar water until **smooth and white** (removes allergens).
-   - Cut into chunks, place on a heatproof plate, and **liberally coat with sugar**.
+    - Scrub yam segments in vinegar water until **smooth and white** (removes allergens).
+    - Cut into chunks, place on a heatproof plate, and **liberally coat with sugar**.
 
 3. **Steam**
 
-   - Steam for 30 mins over high heat. Sugar will melt into syrup.
+    - Steam for 30 mins over high heat. Sugar will melt into syrup.
 
 4. **Blend** (*Critical texture steps*)
 
-   - Transfer yam + syrup to a blender. Add condensed milk and cream.
-   - **Blend for 10-20 secs max** (*over-blending makes paste too thin*).
-   - **No water added** – relies on natural moisture offered by the syrup.
+    - Transfer yam + syrup to a blender. Add condensed milk and cream.
+    - **Blend for 10-20 secs max** (*over-blending makes paste too thin*).
+    - **No water added** – relies on natural moisture offered by the syrup.
 
    **Alternative Methods:**
 
-   - *Hand-mashing*: For grainier texture (traditional approach).
-   - *No dairy*: Lighter, herbal flavor but less aromatic.
+    - *Hand-mashing*: For grainier texture (traditional approach).
+    - *No dairy*: Lighter, herbal flavor but less aromatic.
 
 5. **Pipe & Serve**
 
-   - Sieve paste if lumpy (*prevents clogging piping tip*).
+    - Sieve paste if lumpy (*prevents clogging piping tip*).
 
-   - Shape the paste onto plates.
+    - Shape the paste onto plates.
 
-     > We initially planned to make delicate decorations with a piping bag, but it's a pity that such a step isn't implemented due to time constraints (◞‸ ◟)💧
+    ???+ question "Pity"
+        We initially planned to make delicate decorations with a piping bag, but it's a pity that such a step isn't implemented due to time constraints (◞‸ ◟)💧
 
-   - Garnish with mint leaves
+    - Garnish with mint leaves
 
-   - Top with the **sauce** and enjoyദ്ദി(˵ •̀ ᴗ - ˵ ) ✧.
+    - Top with the **sauce** and enjoyദ്ദി(˵ •̀ ᴗ - ˵ ) ✧.
 
 
 
@@ -232,9 +232,8 @@ Unlike Western cooking's predominant roasting/baking:
 
 ### Osmanthus Sugar
 
-> [!NOTE]
->
-> Consisting of water, sugar and osmanthus flowers, Osmanthus Sugar clearly distinguishes from Osmanthus Honey Blends
+???+ note
+    Consisting of water, sugar and osmanthus flowers, Osmanthus Sugar clearly distinguishes from Osmanthus Honey Blends
 
 #### Ingredients & Tools
 
@@ -251,33 +250,31 @@ Unlike Western cooking's predominant roasting/baking:
 
 1. **Flower Prep**
 
-   - Rinse (if using fresh) → Sun-dry until crisp
-   - *or* Use pre-dried tea-grade osmanthus *(no washing needed)*
+    - Rinse (if using fresh) → Sun-dry until crisp
+    - *or* Use pre-dried tea-grade osmanthus *(no washing needed)*
 
 2. **Sugar Syrup Base**
 
-   - Combine sugar + water → **High heat** until boiling
-   - Reduce to **low simmer** (6 mins)
-   - 🔥 *Critical: Water ratio must be exact!*
-     - *"Better under- than over-hydrated – easily adjusted later"*
+    - Combine sugar + water → **High heat** until boiling
+    - Reduce to **low simmer** (6 mins)
+    - 🔥 *Critical: Water ratio must be exact!*
+    ???+ tip
+        *"Better under- than over-hydrated – easily adjusted later"*
 
 3. **Floral Infusion**
 
-   - Add osmanthus + lemon juice + salt → **Return to boil**
+    - Add osmanthus + lemon juice + salt → **Return to boil**
 
      ![](images/20.jpg)
 
-     > [!NOTE]
-     >
-     > Actually from the photo you can find that our cook failed to ==这里还没写完==
+    ???+ Mishap
+        Actually from the photo you can find that due to time constraints, our chef inadvertently reversed the sequence, adding osmanthus flowers immediately after sugar - yet serendipitously, the dish retained its aromatic integrity.( ⸝⸝´꒳`⸝⸝)
 
-   - Simmer 4 mins *(set timer!)*
+    - Simmer 4 mins *(set timer!)*
 
-   - 🍋 *Pro Tip: Strain lemon seeds to avoid bitterness*
-
+    - 🍋 *Pro Tip: Strain lemon seeds to avoid bitterness*
 
 
-#### Our Culinary Creation
 
 
 

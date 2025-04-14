@@ -4,6 +4,15 @@ site_description: An SQTP result site by a group of Changemakers in ZJU
 site_author: (Name?) SQTP Team
 
 theme:
+  #language: zh
+  #logo: assets/genshinlogo.jpg  左上角logo可以自定义
+  #icon:
+    #repo: fontawesome/brands/github #右上角图标
+    #logo: material/earth  #左上角logo也可以使用material自带的
+  logo: assets/colored earth.svg
+  icon:
+    annotation: material/arrow-right-circle
+
   name: material   
   font: 
     text: M PLUS Rounded 1c
@@ -11,22 +20,25 @@ theme:
   # logo: assets/favicon.png #左上角logo，可插入图片链接
   palette:
     - scheme: default
-      primary: green #设置顶部颜色  
+      primary: green #primary是主色
+      #accent: pink  
+      #accent是强调色，用于表示可交互的元素，例如悬停链接、按钮和滚动条。
+      #不设置的话，accent默认为indigo
       toggle:
-        icon: material/brightness-7
+        icon: material/brightness-7  #这是一个图标
         name: 切换到夜间模式
 
-    - scheme: slate   #这里设置夜间模式
+    - scheme: slate   #slate表示深色模式
       primary: teal  #teal是青色
       toggle:
-        icon: material/brightness-4
+        icon: material/brightness-4  #这是一个图标
         name: 切换到光亮模式
 
   features:
     - navigation.top # 返回顶部的按钮 在上滑时出现
     - navigation.tabs  #这句的作用是使得文档第一级显示在页面正上方那一栏
     - navigation.sections #启用部分后，顶级部分在边栏中呈现为1220px以上视口的组，但在移动设备上保持原样
-    #- navigation.footer #页脚将呈现在边栏中，但在移动设备上保持原样
+    - navigation.footer #页脚将呈现在边栏中，但在移动设备上保持原样
     # 感觉页脚有点丑，不想用
     - navigation.expand # 打开Tab时左侧目录全部展开
     - search.suggest # 搜索输入一些字母时推荐补全整个单词
@@ -35,6 +47,7 @@ theme:
     - navigation.tracking #地址栏中的 URL 将自动更新为在目录中突出显示的活动锚点
     - navigation.tabs.sticky  
     #启用粘性选项卡后，导航选项卡将锁定在标题下方，并在向下滚动时始终保持可见
+    #- header.autohide 当用户滚动超过一定阈值时，标题将自动隐藏，从而留出更多空间显示内容。
 
     - search.share #搜索分享按钮
     - navigation.indexes #启用节索引页后，可以将文档直接附加到节
@@ -45,12 +58,6 @@ theme:
     - content.action.view
     - content.code.annotate
 
-  #language: zh
-
-  icon:
-    repo: fontawesome/brands/github #右上角图标
-    logo: logo  #左上角logo
-
 nav:
   - Home: index.md  #这个是主页
   - Event Snapshots: Event Snapshots.md
@@ -59,7 +66,7 @@ nav:
       - Chinese Culinary Culture: Chinese Culinary Culture.md
       - Chinese Cuisine in ZJU: Chinese Cuisine in ZJU.md
   - Linguistic Extensions:
-      - Overview: Overview LE.md
+      - Linguistic Extensions: Overview LE.md
       - Semiotic Perspective: Semiotic Perspective.md
       - Phonetic Practice: Phonetic Practice.md
       - Semantic Field Theory: Semantic Field Theory.md
@@ -80,38 +87,39 @@ extra:
 
   analytics:
     provider: google
+    property: G-N8X5BHX0TT  #你的Google Analytics ID
     feedback:
       title: Is our site helpful?
       ratings:
-        - icon: material/thumb-up-outline
+        - icon: material/heart
           name: Yes, it is!
           data: 1
           note: >-
             Thank you!(˵ •̀ ᴗ - ˵ ) ✧
         
-        - icon: material/thumb-down-outline
-          name: I'm afraid not...
+        - icon: material/heart-broken
+          name: I think it can be improved...
           data: 0
           note: >-
             Thank you for your feedback! (,,>﹏<,,)
 
 plugins:
   - search #搜索配置
-  - glightbox:
-      enabled: !ENV [glightbox, false]
-      touchNavigation: true
-      loop: false
-      effect: fade
-      slide_effect: slide
-      width: 100%
-      height: auto
-      zoomable: true
-      draggable: true
-      auto_caption: false
-      caption_position: bottom
-      background: white
-      shadow: true
-      manual: false
+  # - glightbox:
+  #     enabled: !ENV [glightbox, false]
+  #     touchNavigation: true
+  #     loop: false
+  #     effect: fade
+  #     slide_effect: slide
+  #     width: 100%
+  #     height: auto
+  #     zoomable: true
+  #     draggable: true
+  #     auto_caption: false
+  #     caption_position: bottom
+  #     background: white
+  #     shadow: true
+  #     manual: false
 
   # - blog: #博客配置
   #     post_date_format: full #时间
@@ -124,11 +132,12 @@ plugins:
   #     authors_file: "{blog}/.authors.yml" #作者信息
 
 markdown_extensions: #详见https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/ 和 https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/
+  - tables #确保支持markdown表格
   - abbr
-  - attr_list
-  - admonition
+  - attr_list  #用于支持注释、网格等等
+  - admonition  #这就是警告框
   - def_list
-  - footnotes
+  - footnotes  #用于添加脚注
   - md_in_html
   # - meta # 支持Markdown文件上方自定义标题标签等
   - pymdownx.caret
@@ -162,3 +171,6 @@ markdown_extensions: #详见https://squidfunk.github.io/mkdocs-material/setup/ex
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+
+extra_css:
+  - stylesheets/yuanjiao.css # 自定义CSS

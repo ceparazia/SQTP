@@ -1,0 +1,14 @@
+:root {
+  --base-border-radius: 0.5rem; /* 圆角大小 */
+}
+
+/* 通用图片圆角样式 */
+img {
+  border-radius: var(--base-border-radius);
+}
+
+/* 如果是 MkDocs Material 主题 */
+.md-typeset img {
+  border-radius: var(--base-border-radius);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* 可选：添加阴影 */
+}
