@@ -3,7 +3,6 @@
 ![](images/42.jpg)
 
 
-
 # What's this site?
 
 ​	This is a site summarizing our **SQTP** Results (˶˃ ᵕ ˂˶)
@@ -22,7 +21,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-book:{ .lg .middle } __Theoretical Knowledge Module__
+-   :material-book:{ .abc } __Theoretical Knowledge Module__
 
     ---
 

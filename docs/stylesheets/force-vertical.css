@@ -1,0 +1,54 @@
+/* 强制竖排卡片容器 */
+.force-vertical {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 1rem;
+  }
+  
+  /* 继承Material卡片所有样式 */
+  .force-vertical > .md-grid-card {
+    all: inherit; /* 关键！继承主题所有样式 */
+    break-inside: avoid; /* 防止内容截断 */
+    page-break-inside: avoid; /* 打印兼容 */
+  }
+  
+/* 强制图片浮动 */
+.force-vertical .float-left {
+    float: left !important;
+    width: 60% !important;
+    margin-right: 1rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+  .force-vertical .float-right {
+    float: right !important;
+    width: 60% !important;
+    margin-left: 1rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+  
+  /* 图片悬停效果 */
+  .force-vertical img {
+    transition: transform 0.3s;
+  }
+  .force-vertical img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  .grid img {
+    transition: transform 0.3s;
+  }
+  .grid img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  /* 移动端适配 */
+  @media screen and (max-width: 760px) {
+    .force-vertical > .md-grid-card img {
+      float: none !important;
+      width: 100% !important;
+      margin: 0 0 1rem 0 !important;
+    }
+  }
+

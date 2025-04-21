@@ -16,37 +16,93 @@ Therefore, on Dec 20th, 2025, we take an active part in the New Year Gala organi
 
 
 ## Event Silhouettes
-<!-- <center>hello</center> -->
-<div style="text-align: center;">
-"Where laughter, aromas and cheers collide"
-</div>
 
 ![](images/12.jpg)
 
+![](images/3.jpg)
+
+![](images/40.jpg)
+
 ![](images/7.jpg)
 
-### Intense Preparation
-
 <div class="grid cards" markdown>
-  - ![](images/14.jpg)
-  - ![](images/16.jpg)
-  - ![](images/3.jpg)
-  - ![](images/40.jpg)
 
+-    __Hand-on Cooking Practice__
+
+    ---
+
+    ![左对齐图片](images/14.jpg)
+
+
+-   __Research via Activities__
+
+    ---
+
+    ![右对齐图片](images/16.jpg)
+
+
+
+-    __In-depth Linguistic Analysis__
+
+    ---
+
+    ![左对齐图片](images/14.jpg)
+
+-   __Comprehensive Resources__
+
+    ---
+
+    ![右对齐图片](images/16.jpg)
+
+    
 </div>
 
 
 
 
-### Our Bustling Stall
 
-<div class="grid cards" markdown>
-  - ![](images/45.JPG)
-  - ![](images/49.JPG)
-  - ![](images/50.JPG)
-  - ![](images/54.jpg)
+
+<div class="grid cards force-vertical" markdown>
+
+-   __Event Preparation__
+
+    ---
+
+    ![左对齐图片](images/14.jpg){ .float-left }
+    \n\n\n这里是文字说明文字说明文字说明  
+
+-   __Good Morning!__
+
+    ---
+
+    ![右对齐图片](images/16.jpg){ .float-right }
+    这里是文字说明文字说明文字说明  
+
 
 </div>
+
+![](images/52.jpg)
+
+![](images/53.jpg)
+
+![](images/45.jpg)
+
+![](images/49.jpg)
+
+![](images/50.jpg)
+
+![](images/54.jpg)
+
+![](images/.jpg)
+
+![](images/.jpg)
+
+![](images/.jpg)
+
+![](images/.jpg)
+
+![](images/.jpg)
+
 
 
 
@@ -65,43 +121,55 @@ Through this event we hope to progress in:
 
 <div class="grid cards force-vertical" markdown>
 
--   __Creamy Yam(1) in 3 different flavors:__
-    { .annotate }
-
-    1. Yam(Chinese: 山药/Shānyào): A starchy tuber similar to sweet potato, but stickier when cooked 
+-   __Hello World!__
 
     ---
 
     ![](images/52.jpg){ .float-left }
-
-
-      - Sugary osmanthus(1) flower sauce (Made by ourselves⸜(｡˃ ᵕ ˂ )⸝♡!!!)
-      { .annotate }
-    
-        1. Osmanthus(Chinese: 桂花/Guìhuā):Fragrant flowers symbolizing prosperity, often candied for desserts
-      
-      - Blueberry sauce
-      - Rose petal sauce (Quite amazing huh?( • ᴗ - ) ✧)
-      
+    这里是文字说明文字说明文字说明  
     [Come to the recipe](#){ .md-button }
 
--   __Nan Song Hu Ji:__
+-   __Good Morning!__
 
     ---
 
-    ![](images/11.jpg){ .float-right }
-    ![](images/53.jpg){ .float-right }
-
-    Hu's confectionery of the Southern Song Dynasty(Chinese: 南宋胡记/Nán Sòng Hú Jì)
-    
-    
-    
-    A Hangzhou pastry brand reviving 12th-century recipes with modern twists
-    [Come to the recipe](#){ .md-button }
+    ![右对齐图片](images/53.jpg){ .float-right }
+    这里是文字说明文字说明文字说明  
+    `标签1` `标签2`  
+    [详情链接](#){ .md-button }
 
 </div>
 
-![](images/5.jpg){ .float-left }
+- Creamy Yam(1) in 3 different flavors:
+  { .annotate }
+
+    1. Yam(Chinese: 山药/Shānyào): A starchy tuber similar to sweet potato, but stickier when cooked 
+
+  - Sugary osmanthus(1) flower sauce (Made by ourselves⸜(｡˃ ᵕ ˂ )⸝♡!!!)
+    { .annotate }
+
+      1. Osmanthus(Chinese: 桂花/Guìhuā):Fragrant flowers symbolizing prosperity, often candied for desserts
+
+  - Blueberry sauce
+  - Rose petal sauce (Quite amazing huh?( • ᴗ - ) ✧)
+
+  
+
+  ![](images/5.jpg)
+
+- Hu's confectionery(1) of the Southern Song Dynasty (or Nan Song Hu Ji)
+  { .annotate }
+
+    1. Hu's confectionery(Chinese: 南宋胡记/Nán Sòng Hú Jì): A Hangzhou pastry brand reviving 12th-century recipes with modern twists
+
+  ![](images/11.jpg)
+
+- 
+
+- 
+
+- ？
+
 
 
 ### WHY These Cuisines?
@@ -135,43 +203,34 @@ Unlike Western cooking's predominant roasting/baking:
 
 
 ## Our Games
-<div class="grid cards force-vertical" markdown>
 
--   __Tell Your Taste Buds' Story!__
-    
-    ---
+- Taste our cuisine and **describe the flavor in Chinese**
 
-    ![](images/10.jpg){ .float-left }
-    
-    - Step1: Taste our unique cuisine
-    - Step2: Describe the flavor in Chinese
+  ![](images/10.jpg)
 
--   __Slimy and Slippery Thrill!__
+- Try peeling the yam (Sounds easy but quite slippery on hand! )
+ 
+  ![](images/32.jpg)
 
-    ---
+  ![](images/33.jpg)
 
-    ![](images/32.jpg){ .float-right }
-    Try peeling the yam (Sounds easy but quite slippery on hand)!
-    
+  ![](images/34.jpg)
 
-    ???+ warning
-        Wearing gloves is a must, for the sticky slime on peeled yams will cause an allergic reaction.
-        
-    
-        It really iiiiiiiiiiiiiiiiiitches!!!
+  ![](images/36.jpg)
 
-</div>
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- ?
 
 
-<div class="grid cards" markdown style="grid-template-columns: repeat(3, 1fr);">
-
-- ![图片](images/33.jpg){  width=300 }
-
-- ![图片](images/34.jpg){  width=300 }
-
-- ![图片](images/36.jpg){  width=300 }
-
-</div>
 
 ## Our Recipe(,,>ヮ<,,)
 
@@ -270,7 +329,7 @@ Unlike Western cooking's predominant roasting/baking:
     - Combine sugar + water → **High heat** until boiling
     - Reduce to **low simmer** (6 mins)
     - 🔥 *Critical: Water ratio must be exact!*
-      ???+ tip
+    ???+ tip
         *"Better under- than over-hydrated – easily adjusted later"*
 
 3. **Floral Infusion**
