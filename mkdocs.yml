@@ -62,6 +62,7 @@ nav:
   - Home: index.md  #这个是主页
   - Event Snapshots: Event Snapshots.md
   - Chinese Cuisine:
+      - Chinese Cuisine: Chinese Cuisine.md
       - Chinese Cooking Techniques: Chinese Cooking Techniques.md
       - Chinese Culinary Culture: Chinese Culinary Culture.md
       - Chinese Cuisine in ZJU: Chinese Cuisine in ZJU.md

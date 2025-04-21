@@ -25,6 +25,19 @@
     margin-left: 1rem !important;
     margin-bottom: 0.5rem !important;
   }
+
+  .force-vertical .zong-left {
+    float: left !important;
+    width: 50% !important;
+    margin-right: 1rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+  .force-vertical .zong-right {
+    float: right !important;
+    width: 50% !important;
+    margin-left: 1rem !important;
+    margin-bottom: 0.5rem !important;
+  }
   
   /* 图片悬停效果 */
   .force-vertical img {
@@ -51,4 +64,13 @@
       margin: 0 0 1rem 0 !important;
     }
   }
+
+  img {
+    transition: transform 0.3s;
+}
+
+img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
 

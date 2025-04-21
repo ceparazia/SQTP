@@ -19,7 +19,7 @@
 
 ​	As a comprehensive specialized training program for quality and capability development, the SQTP’s content design should incorporate three core modules:
 
-<div class="grid cards" markdown>
+<div class="grid cards" markdown style="grid-template-columns: repeat(3, 1fr);">
 
 -   :material-book:{ .abc } __Theoretical Knowledge Module__
 
@@ -84,7 +84,7 @@
 
     Chinese Cooking techniques, Culinary Culture, and Campus Dining Options
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Comprehensive Resources](Chinese Cuisine.md)
 
 
 
