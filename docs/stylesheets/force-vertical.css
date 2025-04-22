@@ -26,6 +26,20 @@
     margin-bottom: 0.5rem !important;
   }
 
+  .force-vertical .float-left-1 {
+    float: left !important;
+    width: 30% !important;
+    margin-right: 1rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+  .force-vertical .float-right-1 {
+    float: right !important;
+    width: 30% !important;
+    margin-left: 1rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+
   .force-vertical .zong-left {
     float: left !important;
     width: 50% !important;
