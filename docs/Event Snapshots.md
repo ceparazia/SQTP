@@ -8,8 +8,15 @@
 
 We discovered these problems faced by international students when adapting to Chinese food:
 
-- Unfamiliar with Chinese texture vocabulary
-- Unfamiliar with Chinese culinary cooking techniques
+<div class="grid cards" markdown style="grid-template-columns: repeat(3, 1fr);">
+
+- :tongue:Unfamiliar with Chinese food texture vocabulary
+
+- :cooking:Unfamiliar with Chinese culinary cooking techniques
+
+- :cold_sweat:Facing difficulty in articulating meal order in Chinese
+
+</div>
 
 Therefore, on Dec 20th, 2025, we take an active part in the New Year Gala organized by ISU.
 
@@ -32,6 +39,7 @@ Therefore, on Dec 20th, 2025, we take an active part in the New Year Gala organi
   - ![](images/16.jpg)
   - ![](images/3.jpg)
   - ![](images/44.JPG)
+  - ![](images/15.jpg)
 
 </div>
 
@@ -106,6 +114,25 @@ Through this event we hope to progress in:
       
     [Come to Our Recipe](Event Snapshots.md/#our-recipe){ .md-button }
 
+</div>
+
+<div class="grid cards" markdown>
+
+-   **Sugary Osmanthus**
+
+    ---
+    ![](tale/87.jpg)
+    (*online picture for reference*)
+
+-   **Rose Petal Sauce**
+
+    ---
+    ![](tale/86.jpg)
+    (*online picture for reference*)
+
+</div>
+
+<div class="grid cards force-vertical" markdown>
 -   __Nan Song Hu Ji:__
 
     ---
@@ -117,7 +144,15 @@ Through this event we hope to progress in:
     
     
     
-    A Hangzhou pastry brand reviving 12th-century recipes with modern twists
+    A Hangzhou pastry brand reviving 12th-century recipes with modern twists!
+
+
+
+    Each bite carries 800 years of Hangzhou heritage! 🥄💫
+
+
+
+​	
 
 </div>
 
@@ -359,25 +394,28 @@ Through this event we hope to progress in:
 
     - Shape the paste onto plates or other containers.
 
-
-​    
-    <div class="grid cards force-vertical" markdown>
-    
-    -   __Piping Scenes__
-    
-        ---
-    
-        ![](images/19.jpg){ .float-left-1 }
-        ![](images/18.jpg){ .float-right }
-    
-        ???+ question "Pity"
-            We initially planned to make delicate decorations with a piping bag, but it's a pity that such a step is only partially implemented due to time constraints (◞‸ ◟)💧
-    
-    </div>
-    
     - Garnish with mint leaves
     
     - Top with the **sauce** and enjoyദ്ദി(˵ •̀ ᴗ - ˵ ) ✧.
+
+​<div class="grid cards force-vertical" markdown> 
+
+-   __Piping Scenes__
+
+
+    ---
+    
+    ![](images/19.jpg){ .float-left-1 }
+    ![](images/18.jpg){ .float-right }
+    
+    ???+ question "Pity"
+        We initially planned to make delicate decorations with a piping bag, but it's a pity that such a step is only partially implemented due to time constraints (◞‸ ◟)💧
+
+</div>
+
+    
+    
+    
 
 
 
@@ -446,6 +484,222 @@ Through this event we hope to progress in:
 
 
 
+------
+
+## Behind-the-Scenes Chronicles:pencil:
+
+### Our Dedicated Efforts
+
+Devoting tremendous effort and care to this event, our team poured hearts into it to deliver authentic Chinese culinary magic for our international friends! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+Our preparations included:
+
+------
+
+### Ingredient Quest
+
+To achieve the **ultimate velvety texture**, we sourced **iron-stick yams** (*Dioscorea opposita*) – the MVP of Traditional Chinese Medicine cuisine!
+
+To ensure sufficient ingredients before the event, our chef scanned 3 **campus-area markets** for price/quality comparisons 📊
+<div class="grid cards" markdown>
+
+  - ![](tale/3.jpg)
+  - ![](tale/73.jpg)
+  - ![](tale/5.jpg)
+  - ![](tale/84.jpg)
+
+</div>
+
+Finally we sourced premium fresh iron-stick yams via **Dingdong Maicai** app mainly.
+
+------
+
+### Trial Runs
+
+#### 1. Creamy Yam Prototype
+
+The novelty of creamy yam paste greatly intrigued us! Our chef implemented preliminary trials at home using a steamer, achieving excellent results. 
+
+<div class="grid cards" markdown>
+
+  - ![](tale/77.jpg)
+  - ![](tale/11.jpg)
+
+</div>
+
+<div class="grid cards" markdown style="grid-template-columns: repeat(3, 1fr);">
+
+  - ![](tale/17.jpg)
+  - ![](tale/18.jpg)
+  - ![](tale/19.jpg)
+</div>
+
+<div class="grid cards" markdown>
+
+  - ![](tale/85.jpg)
+  - ![](tale/22.jpg)
+  - ![](tale/25.jpg)
+  - ![](tale/35.jpg)
+
+</div>
+
+In his "kitchen lab" our chef:
+
+- Perfected steaming with a **Steaming drawer**
+- Discovered **adequate rate** to reconcile yam,granulated sugar, condensed milk & light cream
+
+
+
+#### 2.Osmanthus Sugar Adventure
+Our chef then attempted making osmanthus sugar in a wok. During this trial, he miscalculated the sugar-to-water ratio, accidentally adding too much water initially and compensating with extra sugar later(｡>﹏<). This valuable mistake taught us to strictly control water measurements during the actual preparation.
+<div class="grid cards" markdown>
+
+  - ![](tale/14.jpg)
+  - ![](tale/42.jpg)
+
+</div>
+
+Along with the blueberry sauce and rose petal sauce made from jam with honey water
+<div class="grid cards" markdown>
+
+  - ![](tale/33.jpg)
+  - ![](tale/34.jpg)
+
+</div>
+
+
+**WE'VE GOT:**
+<div class="grid cards" markdown>
+
+-   **Mouthwatering Trial Results!**
+
+    ---
+
+    ![](tale/39.jpg)
+
+</div>
+
+<div class="grid cards" markdown>
+
+- ![](tale/41.jpg)
+- ![](tale/40.jpg)
+
+</div>
+
+
+<center>Lesson learned: Western pastry techniques + Chinese ingredients = :gift_heart:</center>
+
+------
+
+### Kitchen Recon
+
+After reserving the campus Bizhiju kitchen, our chef inspected its facilities one week prior. Drawing from his home trials, he confirmed the kitchen had essential cookers, refrigerator, microwave, oven, induction cooker, and rice cooker - boosting our confidence for the event.
+<div class="grid cards" markdown>
+
+- ![](tale/44.jpg)
+- ![](tale/45.jpg)
+- ![](tale/46.jpg)
+- ![](tale/47.jpg)
+
+</div>
+
+
+
+| Equipment         | Status                                          |
+| :---------------- | :---------------------------------------------- |
+| Industrial fridge | ✔️ Perfect for **Culinary Creation** **Storage** |
+| Rice cooker       | :question:Available for steaming?               |
+| Microwave,        | :question: Alternative for steaming?            |
+
+Pro tip: Mind to take a **compatible steamer** – ours got stuck in transit (╥﹏╥)
+
+------
+
+### Equipment Prep
+
+We carefully considered the event logistics! Anticipating individual servings of yam paste, we bought pastry boxes in advance. The dainty yam paste paired perfectly with these charming checkered boxes! Combined with our use of mint leaves, we successfully created dishes that delighted not only your tongue but also your eyeballs!
+<div class="grid cards" markdown>
+
+- ![](tale/58.jpg)
+- ![](tale/65.jpg)
+
+</div>
+
+What's more, we've also taken consideration the gloves and peelers needed for the event, and we were well prepared!ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+<div class="grid cards" markdown>
+
+- ![](tale/80.jpg)
+- ![](tale/79.jpg)
+
+</div>
+
+
+
+### Additional Creativity
+
+We had another unrealized idea - introducing Chinese spices! Chinese cuisine employs spices with profound depth. The "Five-Spice" flavor profile specifically combines:
+
+1. **Star anise** – Sweet licorice vibe ✨
+2. **Sichuan pepper** – Tingly "mala" buzz 🌶️
+3. **Cassia bark** – Warm cinnamon hug 🪵
+4. **Cloves** – Powerful floral punch 🌺
+5. **Fennel seeds** – Gentle herbal whisper 🍃
+
+We originally planned an interactive game - identifying these spices and describing their flavors! Though unfulfilled, we highly recommend exploring the richness of Chinese spices! (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
+![](tale/9.jpg)
+
+<div class="grid cards" markdown>
+
+- ![](tale/8.jpg)
+- ![](tale/7.jpg)
+
+</div>
+
+
+*Next time, friends!* ヽ(✿ﾟ▽ﾟ)ノ
+
+------
+
+### Night Before the Event
+
+On the night before, we prepared the creamy yam paste and osmanthus sugar at Bizhiju kitchen.
+
+Regrettably, our chef hadn't thoroughly verified the kitchenware compatibility. Despite bringing a steamer from home and purchasing a metal trivet for steaming use, we encountered difficulties:
+
+- The steamer was too large for the kitchen rice cooker
+- The trivet was too tall for the induction cooker with lid
+
+This posed significant challenges for the crucial steaming process (,,>ࡇ<,,)( Details in [:material-arrow-right:Kitchenantics](#kitchenantics)).
+
+Undeterred, our team proactively sought solutions:
+
+- Built an improvised steamer using disposable chopsticks:bulb:
+- Experimented with alternative methods: oven baking, microwaving, and boiling in the rice cooker
+
+Through perseverance, we overcame these obstacles and achieved the desired fluffy yam texture.
+
+As we concluded the night's intense cooking session and cleaned the kitchen, our entire team felt incomparable joy and satisfaction!(♡ˊ͈ ꒳ ˋ͈)
+
+<figure markdown="span">
+  ![](images/17.jpg)
+  <figcaption>Team Members Invovled in Our Kitchen Triumph!</figcaption>
+</figure>
+
+
+
+
+------
+
+### Why This Matters
+
+Through kitchen wars and joint dedication, our team grew distinctly cohesive, as our efforts served as a very testimony to the idea below:
+
+<center>:star2:Great cuisines bridges cultures faster than any translator!</center>
+
+
+
+
+
 ## Kitchenantics
 
 On our trial (weeks before the event) we used a steamer, which created ideal Creamy Yam smoothly. 
@@ -466,74 +720,20 @@ We tried using microwave oven, but it's a little challenging for us to control t
 ??? note "(っ'ヮ'c)"
     ~~Wow, mouthwatering caramel!~~
 
-  The yam and sugar are tightly bonded together, forming a hard...hmm...statue? We tried placing the plate upside down, and the dish remain still and didn't fall...
+  The yam and sugar are tightly bonded together, forming a hard...hmm...**statue**? We tried placing the plate upside down, and the dish remain still and DIDN'T FALL...
 
   Luckily, we managed to find substitutional methods for steaming like boiling, and thus successfully finished the thrilling cooking.
 
 ???+ tip "( ≧ᗜ≦)" 
     The hilarious part? We take the kitchen catastrophe on the event, and multiple people actually eyed that culinary trainwreck with interest and asked for a taste(˶°ㅁ°)!!
 
-  Speaking of which, presently the statue is still kept as a memorial by one of our group member. It remains intact so far as months have passed...
+  Speaking of which, presently the **statue** is still kept as a memorial by one of our group member. It **REMAINS INTACT** so far as months have passed...
 
 
 
 
 
-## Offstage Stories
 
-Our Great Efforts
-
-我们团队为本次活动投入了许多努力和心思，只为让我们的外国朋友更好地体会我们的特色美食！
-
-我们的努力包括：
-
-### 食材调研
-
-为了达到想要的软绵口感，我们选取铁棍山药作为奶油山药泥的主要原料。为了保证在活动前能够有足够的山药原料，我们的主厨考察了校园周边的菜市场
-
-
-
-
-
-### 提前试验
-
-奶油山药泥的新奇对我们而言也有着巨大的吸引力！我们的主厨先在自己家中尝试了一次，并用蒸锅取得了非常好的成果！
-
-然后，我们的主厨用wok制作了糖桂花。这次试验中，他没有控制好白砂糖和水的比例，加入了过多的水，只能在中途又加入大量白砂糖作为补救。这次失误为我们团队提供了宝贵的经验，使得我们在活动前夜的制作中严格限制了制作糖桂花时加的水量
-
-
-
-### 厨房考察
-
-预约校园毕至居厨房后，我们的主厨提前一周考察了厨房的配置。结合自己在家里试验的经历，他确认这个厨房有基本的厨具、冰箱、微波炉、烤箱、电磁炉、电饭煲，由此对活动前的烹饪更加有了信心。
-
-
-
-### 器具配置
-
-
-
-### 其他巧思
-
-
-
-### 活动前夜
-
-活动前一天晚上，我们在毕至居进行了奶油山药泥以及糖桂花的制作
-
-遗憾的是，我们主厨没有仔细确认该厨房的器皿是否适配我们将要进行的烹饪操作。在活动前夜，尽管他已经尽可能地考虑到厨房情况，从家里带了蒸屉，并且买了金属三脚蒸架，但是在实际操作时遇到了困难：
-
-家里带来的蒸屉太大，无法放入这个厨房的电饭煲；买的金属蒸架太高，无法放入电磁炉并盖上锅盖。
-
-这样以来，我们烹饪过程中最重要的蒸这一步就遇到了巨大的挑战。
-
-为此，我们团队的成员没有泄气，而是积极地寻求解决方法。
-
-我们用一次性筷子搭建高度合适的简易蒸架以放进电磁炉；我们尝试用烤箱、微波炉烘烤，用电饭煲水煮这些方法替代蒸的操作……
-
-在我们的努力下，我们成功克服了客观条件上的困难，得到了预期的软绵山药口感。
-
-当我们结束一晚上紧张忙碌的烹饪工作，对厨房进行打扫和整理时，我们团队都感到无与伦比的喜悦和满足！
 
 
 
