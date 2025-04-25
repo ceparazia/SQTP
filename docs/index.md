@@ -1,21 +1,51 @@
-# Welcome!
+# Welcome!🎉
 
 ![](images/42.jpg)
 
+???+ question "What's This Site (๑•᎑•๑)"
+    This is a site summarizing our **SQTP** Results (˶˃ ᵕ ˂˶)
 
-# What's this site?
-
-​	This is a site summarizing our **SQTP** Results (˶˃ ᵕ ˂˶)
-
-​	As a group of freshmen in ZJU, we are taking an active part making a difference: helping make Chinese food more enjoyable for ya~
+    As a group of **freshmen in ZJU**, we are taking an active part making a   difference: helping ==**make Chinese food more enjoyable**== for ya~
 
 
+???+ question "What Is SQTP ( ╹ -╹)?"
+    ​The SQTP (Student Quality Training Project) is a "Dream Boosting Initiative" focused on student development, designed to help students achieve their aspirations for enhancing individual or group capabilities and qualities. Guided by the fundamental principle of cultivating virtue through education, the program emphasizes **student-led:** 
+    
+    <div class="grid cards" markdown style="grid-template-columns: repeat(3, 1fr);">
 
-# What is SQTP?
+    - 📝 **Application**
+    - 🔍 **Evaluation**
+    - 🛠️ **Implementation**
 
-​The SQTP (Student Quality Training Project) is a "Dream Boosting Initiative" focused on student development, designed to help students achieve their aspirations for enhancing individual or group capabilities and qualities. Guided by the fundamental principle of cultivating virtue through education, the program emphasizes student-led application, evaluation, and implementation, with professional instructors providing mentorship. 
+    </div>
+    
+    with professional instructors providing mentorship. 
 
-Through team formation, project proposal, management execution, and final evaluation, students actively engage in critical thinking, exploratory learning, and motivation cultivation, thereby comprehensively improving their overall competencies.
+    Through the process of:
+    
+    <div class="grid cards" markdown style="grid-template-columns: repeat(2, 1fr);">
+
+    - 👥 **Team Formation**
+
+    - 💡 **Project Proposal**
+
+    - 📊 **Management Execution**
+
+    - 🏆 **Final Evaluation**
+
+    </div>
+    
+    Students actively engage in:
+    
+    <div class="grid cards" markdown style="grid-template-columns: repeat(3, 1fr);">
+
+    - ✨ **Critical Thinking**
+    - 🧭 **Exploratory Learning**
+    - 🎯 **Motivation Cultivation**
+
+    </div>
+
+    thereby comprehensively improving their overall competencies.
 
 Themes for SQTP applications include categories such as **student development**, **collective building**, and **campus life**.
 
@@ -30,14 +60,14 @@ As a comprehensive specialized training program for quality and capability devel
     Strengthening foundational theories related to capability and quality enhancement
 
 
--   :simple-searxng:{ .lg .middle } __Simulation Training Module__
+-   :simple-searxng:{ .abc } __Simulation Training Module__
 
     ---
 
     Fostering self-guided experiential learning through practical simulations
 
 
--   :fontawesome-solid-hand-sparkles:{ .lg .middle } __Practical Application Module__
+-   :fontawesome-solid-hand-sparkles:{ .abc } __Practical Application Module__
 
     ---
 
@@ -47,11 +77,41 @@ As a comprehensive specialized training program for quality and capability devel
 
 
 
-# Our SQTP
+# Our SQTP🌟
+Welcome to our **SQTP Dream Boosting Initiative**! As ZJU freshmen, we're passionate about making Chinese cuisine more accessible and enjoyable for international students. Through **culinary exploration** and **linguistic research**, we're bridging taste bud gaps one bite at a time! (˶ᵔ ᵕ ᵔ˶)
 
-​Themed **"Taste Bud Frontiers Decoded: Overcoming International Students' Food Adaptation Challenges"**, our SQTP perceived the phenomenon that some international ZJUers experience varying degrees of ==**culinary acculturation stress**== when encountering authentic Chinese cuisine. What's more, from linguistic perspective we note another intriguing phenomena worthy of attention : Some international students lack familiarity with ==**Chinese culinary vocabulary**==, hindering their ability to articulate dietary preferences and exacerbating challenges in adapting to campus Chinese dining.
+???+ tip "(づ> v <)づ🌈⛅️✨"
+    <center>Food is the universal language, but sometimes we need a translator for our taste buds!✨</center>
 
-​Based on these observations, our team actively engages in the SQTP initiative to ==**facilitate international students’ adaptation to campus Chinese cuisine**==. We do hope that through our efforts:  
+​Themed ==**"Taste Bud Frontiers Decoded: Overcoming International Students' Food Adaptation Challenges"**==, our SQTP perceived the phenomenon that some international ZJUers experience varying degrees of ==**culinary acculturation stress**== when encountering authentic Chinese cuisine. What's more, from linguistic perspective we note another intriguing phenomena worthy of attention : Some international students lack familiarity with ==**Chinese culinary vocabulary**==, hindering their ability to articulate dietary preferences and exacerbating challenges in adapting to campus Chinese dining.
+
+<div class="grid cards" markdown style="grid-template-columns: repeat(1, 1fr);">
+
+-   :tongue:**Chinese Food Texture Vocabulary**
+
+    ---
+
+    How do I describe "crispy" "chewy" "slippery" texture in Chinese? (,,>ࡇ<,,)
+
+
+-   :cooking:**Chinese Culinary Cooking Techniques**
+
+    ---
+
+    What distinguishes "煎","炒","烹","炸","蒸","煮","炖","煲","烧","焖","熘","烤" ( ꩜ ᯅ ꩜;)⁭ ⁭
+
+
+-   :cold_sweat:**Meal Order in Chinese**
+
+    ---
+
+    How to express "No coriander PLZ🥹!" in Chinese? ( ˶o˶˶o˶) !!
+
+</div>
+
+This culinary acculturation stress creates real barriers to enjoying campus dining. But we're changing that! 💪
+
+​Based on such observations, our team actively engages in the SQTP initiative to ==**facilitate international students’ adaptation to campus Chinese cuisine**==. We do hope that through our efforts:  
 
 
 <div class="grid cards" markdown>
@@ -60,36 +120,80 @@ As a comprehensive specialized training program for quality and capability devel
 
     ---
 
-    Practical culinary experience of cooking the creamy yam
+    Practical culinary experience of ==**making our Creamy Yam Purée**==
 
-    [:octicons-arrow-right-24: Event Snapshots](Event Snapshots.md) 
+    - Western-friendly textures
+    - Chinese characteristic ingredient
+    - 3 sauce variations(๑˃ᴗ˂)ﻭ
+
+    See our hand-on adventures in:
+    [==→Event Snapshots==](Event Snapshots.md){.md-button .md-button--white .small}
+
 
 -   :confetti_ball:{ .lg .middle } __Research via Activities__
 
     ---
 
-    Engaging in the New Year Gala organized by ISU, presenting unique cuisines and gaining samples through games
+    Engaging in the ==**New Year Gala**== organized by ISU
+    
+    - Presenting unique cuisines
+    - Collecting food vocabulary samples through our "Tell Your Taste Bud's Story" game 
+    - building flavor-language bridges( • ᴗ - ) ✧
 
-    [:octicons-arrow-right-24: Event Snapshots](Event Snapshots.md) 
+    View our funpacked research in:
+    
+    [ ==→Event Snapshots==](Event Snapshots.md){.md-button}
 
 -   :material-human-greeting-proximity:{ .lg .middle } __In-depth Linguistic Analysis__
 
     ---
 
-    Probing into the core issues with regard to **Semiotics, Phonetics, Semantics & Sociolinguistics**
+    Probing into the core issues with regard to:
 
-    [:octicons-arrow-right-24: Linguistic Extensions](Overview LE.md)
+    - **Semiotics**
+    - **Phonetics**
+    - **Semantics**
+    - **Sociolinguistics**
+
+    View our linguistic part in:
+
+    [==→Linguistic Extensions==](Overview LE.md){.md-button}
 
 -   :bookmark:{ .lg .middle } __Comprehensive Resources__
 
     ---
 
-    Chinese Cooking techniques, Culinary Culture, and Campus Dining Options
+    - Chinese Cooking techniques
+    - Chinese Culinary Culture
+    - Campus Dining Survival Guide(≧∇≦)
 
-    [:octicons-arrow-right-24: Comprehensive Resources](Chinese Cuisine.md)
+    View our comprehensive resources in:
+    [==→Chinese Cuisine==](Chinese Cuisine.md){.md-button}
 
 
 
 </div>
 
-​	We could provide targeted solutions to help you better adapt to campus Chinese cuisine and gain an enhanced appreciation of Chinese gastronomy(≧ᗜ≦)
+​We hope through our SQTP we could provide targeted solutions to help both audiences:
+<div class="grid cards" markdown style="grid-template-columns: repeat(2, 1fr);">
+
+-   🪭 **For Chinese Students**
+
+    ---
+
+    - Explain Culinary Concepts
+    - Explore Traditional Recipes
+    - Learn More About Our Rich Culture Through Games⸜(｡˃ ᵕ ˂)⸝♡
+
+-   🌍 **For International Friends**
+
+    ---
+
+    - Better Adapt to Campus Chinese Cuisine
+    - Describe Food Preferences and Order Confidently
+    - Gain an Enhanced Appreciation of Chinese Gastronomy(≧ᗜ≦)
+
+</div>
+
+???+ tip "(づ> v <)づ🌈⛅️✨"
+    <center>Join us on this tasty adventure as we break down taste bud barriers—one bite, one laugh at a time! 🌟🎉</center>
