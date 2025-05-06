@@ -1,4 +1,4 @@
-# Jiangnan Flavour 🌟
+# **Jiangnan Flavour** 🌟
 
 ![](images/1.jpg)
 
@@ -1142,12 +1142,3 @@ We tried using microwave oven, but it's a little challenging for us to control t
     The hilarious part? We take the kitchen catastrophe on the event, and multiple people actually eyed that culinary trainwreck with interest and asked for a taste(˶°ㅁ°)!!
 
   Speaking of which, the statue's legacy lives on! Presently the **statue** is still kept as a memorial by our chef. It **REMAINS INTACT** so far as months have passed...
-
-
-
-
-
-
-
-
-

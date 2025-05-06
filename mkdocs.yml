@@ -63,15 +63,15 @@ nav:
   - Event Snapshots: Event Snapshots.md
   - Chinese Cuisine:
       - Chinese Cuisine: Chinese Cuisine.md
-      - Chinese Cooking Techniques: Chinese Cooking Techniques.md
-      - Chinese Culinary Culture: Chinese Culinary Culture.md
-      - Chinese Cuisine in ZJU: Chinese Cuisine in ZJU.md
+      - Chinese Cooking Techniques: Chinese Cooking Techniques.md  #1
+      - Chinese Culinary Culture: Chinese Culinary Culture.md  #2
+      - Chinese Cuisine in ZJU: Chinese Cuisine in ZJU.md  #3
   - Linguistic Extensions:
       - Linguistic Extensions: Overview LE.md
-      - Semiotic Perspective: Semiotic Perspective.md
-      - Phonetic Practice: Phonetic Practice.md
-      - Semantic Field Theory: Semantic Field Theory.md
-      - Sociolinguistics: Sociolinguistics.md
+      - Culinary Semiotics: Culinary Semiotics.md  #4
+      - Culinary Phonetics: Culinary Phonetics.md  #5
+      - Semantic Field Theory: Semantic Field Theory.md  #6
+      - Sociolinguistics: Sociolinguistics.md  #7
 
 copyright: Copyright &copy; 2024~2025 (name?)SQTP Team/All Rights Reserved. # 左下角的版权声明
 
