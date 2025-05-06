@@ -67,7 +67,7 @@ nav:
       - Chinese Culinary Culture: Chinese Culinary Culture.md  #2
       - Chinese Cuisine in ZJU: Chinese Cuisine in ZJU.md  #3
   - Linguistic Extensions:
-      - Linguistic Extensions: Overview LE.md
+      - Linguistic Extensions: Linguistic Extensions.md
       - Culinary Semiotics: Culinary Semiotics.md  #4
       - Culinary Phonetics: Culinary Phonetics.md  #5
       - Semantic Field Theory: Semantic Field Theory.md  #6
@@ -105,6 +105,12 @@ extra:
             Thank you for your feedback! (,,>﹏<,,)
 
 plugins:
+  # - git-revision-date-localized
+  # - optimize:
+  #     lazy_loading: true  # 启用懒加载
+  #     image_optimization:  # 自动压缩图片
+  #         enabled: true
+  #         min_size_kb: 10  # 仅压缩>10KB的图片
   - search #搜索配置
   # - glightbox:
   #     enabled: !ENV [glightbox, false]

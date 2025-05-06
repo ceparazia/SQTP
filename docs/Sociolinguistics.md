@@ -62,19 +62,19 @@ As mentioned in [Chinese Culinary Culture](Chinese Culinary Culture.md), Chinese
 
 <div class="grid cards force-vertical" markdown>
 
--   **Portion Size**
+-   **🍽️ Portion Size**
     
     ---
     
     "Small" portions often mean 2-3 servings, so it's safe to start with 2 dishes per person.
 
--   **Hidden Charges**
+-   **💸 Hidden Charges**
 
     ---
     
     Always ask, "免费吗?" (Is it free?) to check if there are charges for things like tea or napkins.
 
--   **Time Tricks**
+-   **⏳ Time Tricks**
 
     ---
     
@@ -200,11 +200,41 @@ Whether you're dining offline or ordering via an app, a little preparation can g
 
 
 
-## **Final Thoughts: Enjoy the Journey! 🥳**
+## **Final Thoughts: Enjoy the Journey! 🥳🎉✨**
+
+Hey there!👋
+
+I'm gonna drop a portal right here! For all you awesome readers out there who prefer to skip around while browsing the web, if you haven't delved into our incredibly exciting **Event Snapshots** or our rich and diverse **Comprehensive Resources** yet, you absolutely can't let this opportunity slip through your fingers!
+
+<div class="grid cards" markdown style="grid-template-columns: repeat(2, 1fr);">
+
+-   <center>**👉Event Snapshots**
+
+    ---
+
+    ![](images/50.JPG)
+
+    [==→ Event Snapshots==](Event Snapshots.md){ .md-button }</center>
+
+-   <center>**👉Comprehensive Resources**
+    
+    ---
+
+    ![](0/综合资源.jpg)
+
+    [==→ Chinese Cuisine==](Chinese Cuisine.md){ .md-button }</center>
+
+</div>
+
+!!! tip "(づ> v <)づ🌈⛅️✨"
+    These sections are filled with a treasure trove of information, interesting stories, and valuable insights that are just waiting for you to explore. 
+
+And hey, as you enjoy your time in China, I sincerely hope that every single meal you have here is a burst of joy and satisfaction! ( ⸝⸝´꒳`⸝⸝)
 
 Living and studying in China is an incredible opportunity to dive into the country’s rich culinary culture. Yes, there may be some bumps along the way—whether it's confusing translations, unfamiliar food, or unexpected delivery issues—but with a bit of patience, flexibility, and a sense of adventure, you’ll quickly find yourself navigating the dining scene like a local. 🍜
 
 !!! tip "(づ> v <)づ🌈⛅️✨"
     Be open-minded and adventurous in your food journey. Don’t be afraid to ask questions, try new things, and most importantly, enjoy the incredible variety of flavors that China has to offer.
 
-Happy eating, and share your experiences with your fellow international students! 🌏👩‍🍳
+Happy eating, and share your experiences with your fellow friends! 🎉🌏👩‍🍳
+

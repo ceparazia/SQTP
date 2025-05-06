@@ -1,4 +1,4 @@
-# **🍲Culinary Semiotics**
+# **Culinary Semiotics 🍲**
 
 ## 🎯 Signifier & Signified: How Language Shapes Taste
 
@@ -12,7 +12,7 @@ Swiss linguist Ferdinand de Saussure’s theory reveals how language constructs 
 
 Signifiers are the sensory forms we perceive:
 
-<center>![Figure 1](4/Figure%202.jpeg){width="20%"}</center>
+<!-- <center>![Figure 1](4/Figure%202.jpeg){width="20%"}</center>
 
 <div class="grid cards" markdown style="grid-template-columns: repeat(3, 1fr);">
 
@@ -21,6 +21,33 @@ Signifiers are the sensory forms we perceive:
 - The written characters **鲜** (Chinese for “fresh/savory”).
 
 - The visual label “Extra Spicy” on a sauce bottle.
+
+</div> -->
+
+
+<div class="grid cards" markdown style="grid-template-columns: repeat(2, 1fr);">
+
+-   <center>**Sauce Bottle**</center>
+
+    ---
+
+    ![Figure 1](4/Figure%202.jpeg)
+
+        
+-   <center>**Signifiers**</center>
+
+    ---
+
+    - The sound of the word “umami”.
+
+    ---
+
+    - The written characters **鲜** (Chinese for “fresh/savory”).
+
+    ---
+
+    - The visual label “Extra Spicy” on a sauce bottle.
+
 
 </div>
 
@@ -57,12 +84,17 @@ These meanings are never universal—they’re shaped by language and lived expe
 
 This arbitrariness explains why direct translations often fail—and why food metaphors get “lost in translation.” ( ꩜ ᯅ ꩜;)⁭ ⁭
 
+<center>
+
 | Signifier | Signified in Chinese           | Signified in English                |
 | --------- | ------------------------------ | ----------------------------------- |
 | 鲜        | Harmony of seafood/amino acids | "Savory" (limited to meaty flavors) |
 | Spicy     | Generic heat                   | Nuanced as pungent/hot/fiery        |
 
+
+
 👆A Taste of Cross-Cultural Gaps
+</center>
 
 ## 🪄 Metaphors We Eat By: How Cultures Cook Meaning into Language
 
@@ -112,11 +144,16 @@ Here’s just a taste of these delicious wordplays:
 
 ### Lost in Metaphorical Translation
 
+<center>
+
 | Culture         | Metaphor                                                     | Literal Meaning                   | Hidden Code                                                  |
 | --------------- | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
 | Japanese        | “🍣寿司にならない” (“It won’t become sushi”)                  | Failure to meet standards         | Perfectionism in Edo-era fish preservation                   |
 | Mexican Spanish | “Estar como agua para chocolate” (“To be like water for chocolate”) | Explosive anger                   | References traditional chocolate preparation requiring boiling rage-like heat |
 | Chinese         | 🫓画饼充饥                                                    | Draw a pancake to satisfy hunger. | Critiques impractical solutions, rooted in agrarian scarcity and pragmatism |
+
+</center>
+
 
 !!! question "Why This Sizzles"
     Food metaphors act as cultural DNA:
@@ -225,19 +262,27 @@ Chinese dish names = **Cooking Method** (verb) + **Main Ingredient** (noun) + **
 
 #### A. Key Ingredient Characters  
 
+<center>
+
 | Character | Pinyin | English | Example Dish                                   |
 | --------- | ------ | ------- | ---------------------------------------------- |
 | 鱼        | yú     | Fish    | 酸菜鱼 Suan Cai Yu (Pickled Mustard Fish Soup) |
 | 牛        | niú    | Beef    | 红烧牛肉 Hong Shao Niu Rou (Braised Beef)      |
 | 鸡        | jī     | Chicken | 辣子鸡 La Zi Ji (Sichuan Spicy Chicken)        |
 
+</center>
+
 #### B. Cooking Method Characters  
+
+<center>
 
 | Character | Cooking Style | Heat Level 🔥 |
 | --------- | ------------- | ------------ |
 | 炒        | Stir-fry      | High         |
 | 炖        | Stew          | Low          |
 | 炸        | Deep-fry      | Extreme      |
+
+</center>
 
 #### C. Flavor Warning Tags  
 
@@ -249,11 +294,15 @@ Chinese dish names = **Cooking Method** (verb) + **Main Ingredient** (noun) + **
 
 ### 🎭 Principle 3: Cultural Metaphor Glossary  
 
+<center>
+
 | Modifier | Actual Meaning            | Red Flag Alert 🚩           |
 | -------- | ------------------------- | -------------------------- |
 | 芙蓉     | Egg white/White sauce     | 芙蓉鱼片 ≠ Lotus flower    |
 | 蚂蚁     | Minced meat/Black sesame  | 蚂蚁上树 ≠ Actual ants     |
 | 四喜     | Four auspicious blessings | 四喜烤麸 has 6 ingredients |
+
+</center>
 
 ---
 
@@ -265,14 +314,20 @@ Chinese dish names = **Cooking Method** (verb) + **Main Ingredient** (noun) + **
 
 - **STEP 2**: Decode price tags:  
 
+<center>
+
   | Price Range | Implication              |
   | ----------- | ------------------------ |
   | ¥15-¥38     | Appetizer/Single serving |
   | ¥68-¥128    | Shared main dish         |
 
+</center>
+
 ---
 
 ### 🧠 Principle 6: AI Co-Pilot Protocol  
+
+<center>
 
 | Tool            | Action                                              | Pro Tip                                            |
 | --------------- | --------------------------------------------------- | -------------------------------------------------- |
@@ -280,6 +335,7 @@ Chinese dish names = **Cooking Method** (verb) + **Main Ingredient** (noun) + **
 | **Pleco**       | Handwrite mystery characters                        | Draw 鲞 → reveals "xiǎng (dried fish)"             |
 | **Dianping**    | Search `[Restaurant Name] + 招牌菜`                 | Shows actual customer dish photos                  |
 
+</center>
 
 ## 🔗 Recommended Resources
 

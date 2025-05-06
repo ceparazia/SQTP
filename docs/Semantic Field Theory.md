@@ -1,4 +1,7 @@
-# Semantic Field Theory: Navigating Linguistic Taboos in Chinese Dietary Culture🥢
+# **Semantic Field Theory**
+ 
+!!! tip "(づ> v <)づ🥢"
+    Navigating Linguistic Taboos in Chinese Dietary Culture
 
 **Semantic Field Theory** posits that words derive meaning through their relationships within a structured lexical network, where concepts cluster into thematic domains (e.g., "color," "kinship," or in our context—"food").
 
@@ -6,22 +9,39 @@ This theory illuminates how:
 
 <div class="grid cards" markdown style="grid-template-columns: repeat(1, 1fr);">
 
-- **Hierarchies** emerge (e.g., "meat" → "pork/beef")
-- **Cultural values** embed in vocabulary (e.g., 米 "rice" as a core Chinese field)
-- **Taboos** manifest as lexical gaps or substitutions
-
-
-
-Within culinary semantic fields, taboos act as *"lexical landmines"*—words avoided due to:
-
-- **Phonetic Triggers** (e.g., "梨" (pear) ≈ "离" (separation) → avoided at weddings
-
-- **Morphological Taboos** (e.g., "醋" (vinegar)隐喻嫉妒 → replaced by "忌讳语"
-
-- **Pragmatic Constraints** (e.g., funeral feast menus omitting "红" (red))
+- **👨‍👨 Hierarchies** emerge (e.g., "meat" → "pork/beef")
+- **🌍 Cultural values** embed in vocabulary (e.g., 米 "rice" as a core Chinese field)
+- **🤐 Taboos** manifest as lexical gaps or substitutions
 
 </div>
 
+Within culinary semantic fields, taboos act as *"lexical landmines"*—words avoided due to:
+
+<center>
+
+<div class="grid cards" markdown style="grid-template-columns: repeat(3, 1fr);">
+
+-   **Phonetic Triggers**
+
+    ---
+    
+    (e.g., "梨" (pear) ≈ "离" (separation) → avoided at weddings
+
+-   **Morphological Taboos**
+
+    ---
+    
+    (e.g., "醋" (vinegar)隐喻嫉妒 → replaced by "忌讳语"
+
+-   **Pragmatic Constraints**
+
+    ---
+    
+    (e.g., funeral feast menus omitting "红" (red))
+
+</div>
+
+</center>
 
 China’s culinary traditions are a symphony of flavors, rituals, and symbolism. But beyond chopsticks and steaming dishes lies an invisible layer of **linguistic etiquette**—==**taboo language**== (禁忌语 jìnjìyǔ)—that shapes dining interactions.
 
@@ -49,7 +69,7 @@ Examples to Avoid:
 
 ![](6/鱼.png)
 
-!!! tip:"Pro Tip:"
+!!! tip "Pro Tip:"
     When passing dishes, say "Please enjoy" (请用 qǐng yòng) instead of "Here you go" (给你 gěi nǐ), as gěi can imply charity, unsettling guests.
 
  
@@ -89,21 +109,25 @@ Chinese communication prioritizes "face" (面子 miànzi) and **indirectness**. 
 
 While Western cultures value clarity (Grice’s maxims), Chinese dining etiquette often bends rules to preserve harmony:
 
+
+
 <div class="grid cards" markdown style="grid-template-columns: repeat(2, 1fr);">
 
--   **Maxim of Quantity⚖️**
+-   <center>**Maxim of Quantity⚖️**</center>
 
     ---
     
     Instead of bluntly refusing food, say "I’ll try a little" (我尝一点 wǒ cháng yīdiǎn), even if full. 🍛→🙆
 
--   **Maxim of Quality🌟**
+-   <center>**Maxim of Quality🌟**</center>
 
     ---
     
     Hosts may insist "There’s nothing to eat!" (没什么菜 méi shénme cài) as humility, though the table is full. Respond with praise! 🎇
 
 </div>
+
+
 
 🤝 Politeness Principle in Action:
 

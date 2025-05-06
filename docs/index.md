@@ -126,8 +126,14 @@ This culinary acculturation stress creates real barriers to enjoying campus dini
     - Chinese characteristic ingredient
     - 3 sauce variations(๑˃ᴗ˂)ﻭ
 
+    ![](images/22.jpg)
+
+    <center>
+
     See our hand-on adventures in:
     [==→Event Snapshots==](Event Snapshots.md){.md-button .md-button--white .small}
+
+    </center>
 
 
 -   :confetti_ball:{ .lg .middle } __Research via Activities__
@@ -140,35 +146,55 @@ This culinary acculturation stress creates real barriers to enjoying campus dini
     - Collecting food vocabulary samples through our "Tell Your Taste Bud's Story" game 
     - building flavor-language bridges( • ᴗ - ) ✧
 
+    ![](images/44.JPG)
+
+    <center>
+
     View our funpacked research in:
     
     [ ==→Event Snapshots==](Event Snapshots.md){.md-button}
+
+    </center>
 
 -   :material-human-greeting-proximity:{ .lg .middle } __In-depth Linguistic Analysis__
 
     ---
 
-    Probing into the core issues with regard to:
+    Probing into core issues with regard to:
 
     - **Semiotics**
     - **Phonetics**
     - **Semantics**
     - **Sociolinguistics**
 
+    ![](0/语言学1.jpg)
+
+    <center>
+
     View our linguistic part in:
 
-    [==→Linguistic Extensions==](Overview LE.md){.md-button}
+    [==→Linguistic Extensions==](Linguistic Extensions.md){.md-button}
+
+    </center>
 
 -   :bookmark:{ .lg .middle } __Comprehensive Resources__
 
     ---
 
-    - Chinese Cooking techniques
-    - Chinese Culinary Culture
-    - Campus Dining Survival Guide(≧∇≦)
+    Practical Culinary Toolkit containing:
+
+    - **Chinese Cooking Techniques**
+    - **Chinese Culinary Culture**
+    - **Campus Dining** Survival Guide(≧∇≦)
+
+    ![](0/综合资源.jpg)
+
+    <center>
 
     View our comprehensive resources in:
     [==→Chinese Cuisine==](Chinese Cuisine.md){.md-button}
+
+    </center>
 
 
 

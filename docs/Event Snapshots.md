@@ -528,7 +528,7 @@ Through this event we hope to progress in:
         Therefore we could make a difference!🌟
 
 
-        [:octicons-arrow-right-24: ==✨See Our Linguistic Research Here==](Overview LE.md){ .md-button }
+        [:octicons-arrow-right-24: ==✨See Our Linguistic Research Here==](Linguistic Extensions.md){ .md-button }
 
 
 -   __💦Slimy and Slippery Thrill!__
@@ -983,12 +983,15 @@ With all the equipment needed, our team's confidence skyrocketed!✧｡٩(ˊᗜ�
 
 Regrettably, our chef hadn't thoroughly verified the **kitchenware compatibility.** And that had surely caused us a challenge!(,,>ࡇ<,,) Refer to[ →The Night Before the Event](#night-before-the-event)
 
+<center>
+
 | Equipment         | Status                                          |
 | :---------------- | :---------------------------------------------- |
 | Fridge | ✔️ Perfect for **Culinary Creation** **Storage** |
 | Rice cooker       | ❓ Available for steaming?               |
 | Microwave        | ❓ Alternative for steaming?            |
 
+</center>
 
 ------
 
@@ -1142,3 +1145,31 @@ We tried using microwave oven, but it's a little challenging for us to control t
     The hilarious part? We take the kitchen catastrophe on the event, and multiple people actually eyed that culinary trainwreck with interest and asked for a taste(˶°ㅁ°)!!
 
   Speaking of which, the statue's legacy lives on! Presently the **statue** is still kept as a memorial by our chef. It **REMAINS INTACT** so far as months have passed...
+
+
+!!! note "🥳🎉✨"
+    You’ve just taken a whirlwind tour through our deliciously kitchen experiments and cross-cultural food games – but wait, the feast isn’t over yet! 🎉
+
+    Tucked behind these stories are the golden nuggets we’ve mined for you:
+    
+    <div class="grid cards" markdown style="grid-template-columns: repeat(2, 1fr);">
+
+    -   <center>**👉Comprehensive Resources**
+    
+        ---
+
+        ![](0/综合资源.jpg)
+
+        [==→ Chinese Cuisine==](Chinese Cuisine.md){ .md-button }</center>
+
+    -   <center>**👉Linguistic Extensions**
+
+        ---
+
+        ![](0/语言学1.jpg)
+
+        [==→ Linguistic Extensions==](Linguistic Extensions.md){ .md-button }</center>
+
+    </div>
+
+    Ready to upgrade from "point-and-hope" to "discuss-dishes-like-a-local"? Your toolkit awaits here! (≧ᗜ≦)

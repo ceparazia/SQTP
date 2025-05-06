@@ -2,7 +2,7 @@
 
 Chinese culinary culture, a treasure trove that has been meticulously crafted over centuries, seamlessly weaves together an explosion of rich flavors and profound symbolic meanings. 
 
-At the heart of this captivating culture lie **two essential elements**: ==**Dining Etiquette** and **Cultural Symbols**==. Join us on this fascinating journey as we peel back the layers of these concepts and uncover how they combine to create the one - of - a - kind dining experience that is uniquely Chinese.🍽️🍜
+At the heart of this captivating culture lie **two essential elements**: ==**Dining Etiquette**== and ==**Cultural Symbols**==. Join us on this fascinating journey as we peel back the layers of these concepts and uncover how they combine to create the one - of - a - kind dining experience that is uniquely Chinese.🍽️🍜
 
 ## Dining Etiquette 🍽️
 
@@ -13,6 +13,8 @@ At the heart of this captivating culture lie **two essential elements**: ==**Din
 
 !!! note
     In the fabric of Chinese society, age and status hold great significance, especially when it comes to the dining table. 
+   
+![](2/餐桌.jpg)
 
 The seating arrangement is a carefully orchestrated dance, with the most prominent seats reserved for elders and esteemed guests. When the meal commences, it is these revered individuals who take the first bite, a simple yet powerful gesture that speaks volumes about the respect deeply ingrained in Chinese culture.
 
@@ -61,7 +63,16 @@ Chopsticks in China are not mere utensils; they are an integral part of a sacred
 
 And perhaps the most important rule of all: ==**never stick chopsticks upright into a bowl of rice!**==
 !!! question "🤔Why?"
-    This seemingly innocent act resembles the **incense** used in religious rituals and is regarded as an ominous sign.( ˶°ㅁ°) !! 
+
+    <div class="grid cards force-vertical" markdown>
+
+    - 
+
+        ![](2/香.jpg){.float-left}
+
+        This seemingly innocent act resembles the **incense** used in religious rituals and is regarded as an ominous sign.( ˶°ㅁ°) !! 
+
+    </div>
 
 These small but significant details are a testament to the deep - rooted traditions and the respect for others that are at the core of Chinese dining 🙏.
 
@@ -108,14 +119,11 @@ Families gather to enjoy these dishes together, savoring both the food and the s
 
 The iconic food for the Lantern Festival is **"yuan xiao"** (元宵) or **"tang yuan"** (汤圆), sweet glutinous rice balls filled with various fillings, symbolizing unity and happiness.
 
-<div class="grid cards" markdown style="grid-template-columns: repeat(2, 1fr);">
-
-- ![](2/元宵1.jpg)
-- ![](2/元宵2.png)
-
-</div>
+![](2/元宵1.jpg)
 
 On this day, people not only eat these delicious treats but also celebrate by enjoying lantern displays and guessing lantern riddles, creating an atmosphere of joy and camaraderie.
+
+![](2/元宵2.png)
 
 ### Qingming Festival (清明节) 🌱
 
@@ -287,8 +295,6 @@ Beyond the food itself, the items used on the dining table also carry deep cultu
 
 </div>
 
-
--  
 
 ## Conclusion 🌟
 

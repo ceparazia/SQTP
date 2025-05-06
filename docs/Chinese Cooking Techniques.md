@@ -1,4 +1,4 @@
-# **Chinese cooking techniques**
+# **Chinese Cooking Techniques**
 
 Chinese cuisine employs diverse cooking methods, including **stir-fry, deep-fry, steam, boil, stew, braise, roast, pan-fry** and so on. Now, let's learn about specific cooking methods through several delicious dishes together! ٩(ˊᗜˋ*)و
 
@@ -151,7 +151,7 @@ Ever wondered how street vendors make **"Blistered Green Beans"** taste like hea
 
 <div class="grid cards" markdown>
 
--   Wok Magic: Bào Chǎo! 🔥🔥🔥
+-   **Wok Magic: Bào Chǎo!** 🔥🔥🔥
 
     ---
 

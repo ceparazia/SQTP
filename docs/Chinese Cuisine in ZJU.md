@@ -1,6 +1,6 @@
 # **Chinese Cuisine in ZJU**
 
-As a ZJUer, you're standing at the gateway to **one of China's most vibrant collegiate food universes!** Our campus isn't just about lectures and labs – it's a **365-day culinary festival！**
+As a ZJUer, you're standing at the gateway to **one of China's most vibrant collegiate food universes!** Our campus isn't just about lectures and labs – it's a **365-day culinary festival！**🎉
 
 Follow our footsteps and take a glimpse of this **wonderland of taste buds!** 🔭
 
@@ -270,14 +270,63 @@ Come savor these authentic flavors and experience China's rich cultural tapestry
 
 Forged over millennia, China’s **8 legendary cuisines** boast:  
 
-- **鲁 Lu** 🏯 (Shandong): Imperial refinement  
-- **川 Chuan** 🌶️ (Sichuan): Numbing fire  
-- **粤 Yue** 🥢 (Cantonese): Dim sum artistry  
-- **苏 Su** 🍃 (Jiangsu): River-poet elegance  
-- **闽 Min** 🦀 (Fujian): Seafood symphony  
-- **浙 Zhe** 🎋 (Zhejiang): Lakeside freshness  
-- **湘 Xiang** 🔥 (Hunan): Flaming passion  
-- **徽 Hui** 🏔️ (Anhui): Mountain mystique  
+<center>
+
+<div class="grid cards" markdown style="grid-template-columns: repeat(2, 1fr);">
+
+
+-   **鲁 Lu** 🏯 (Shandong)
+
+    ---
+    
+    Imperial refinement  
+
+-   **川 Chuan** 🌶️ (Sichuan) 
+
+    ---
+    
+    Numbing fire
+
+-   **粤 Yue** 🥢 (Cantonese)
+
+    ---
+    
+    Dim sum artistry  
+
+-   **苏 Su** 🍃 (Jiangsu)
+
+    ---
+    
+    River-poet elegance  
+
+-   **闽 Min** 🦀 (Fujian)
+
+    ---
+    
+    Seafood symphony  
+
+-   **浙 Zhe** 🎋 (Zhejiang)
+
+    ---
+
+    Lakeside freshness  
+
+-   **湘 Xiang** 🔥 (Hunan)
+
+    ---
+    
+    Flaming passion  
+
+-   **徽 Hui** 🏔️ (Anhui)
+
+    ---
+    
+    Mountain mystique  
+
+
+</div>
+
+</center>
 
 ### 🔥 **Hunan Cuisine (Xiang)**  
 
@@ -414,3 +463,37 @@ The GOAT of Nanjing cold cuts 🦆👑✨. Jinling Salted Duck looks simple, but
 
 !!! tip "(づ> v <)づ🌈⛅️✨"
     With countless undiscovered bites waiting to dazzle your taste buds, why not turn today’s lunch into a **delicious field trip**! 🧭🍜 Your student card 💳 is the golden ticket to this flavor wonderland – swipe it boldly and just enjoy every bite! (づ> v <)づ♡✨
+
+!!! note "🥳🎉✨"
+    We hope our carefully crafted resources have given you a mouthwatering glimpse into the incredible world of Chinese culinary arts – transforming those confusing menu moments into exciting opportunities for discovery!
+    
+    Now that your chopsticks are ready and your appetite is whetted, it’s time for the real magic: seeing how **language** and **food** dance together in perfect harmony.(≧ᗜ≦)
+
+    Want to relive our kitchen adventure? Just hop back through our Event Snapshots – it's like a time machine for tasty memories! 🕰️🍜
+
+    Or if you're feeling extra curious today, why not dive headfirst into the fascinating world of **food linguistics** with us? 
+
+    <div class="grid cards" markdown style="grid-template-columns: repeat(2, 1fr);">
+
+    -   <center>**👉Event Snapshots**
+
+        ---
+
+        ![](images/50.JPG)
+
+        [==→ Event Snapshots==](Event Snapshots.md){ .md-button }</center>
+
+
+    -   <center>**👉Linguistic Extensions**
+
+        ---
+
+        ![](0/语言学1.jpg)
+
+        [==→ Linguistic Extensions==](Linguistic Extensions.md){ .md-button }</center>
+
+    </div>
+
+    We're talking about the secret language behind every sizzling wok and steaming dumpling – where words and flavors collide in the most delicious ways!(っ˘ڡ˘ς)
+
+    By the time we’re done, you won’t just be eating mapo tofu – you’ll be charming the chef by properly appreciating its "málà" essence! 🌶️(,,>ヮ<,,)
