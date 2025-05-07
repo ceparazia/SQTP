@@ -78,7 +78,9 @@ As a comprehensive specialized training program for quality and capability devel
 
 
 # Our SQTP🌟
-Welcome to our **SQTP Dream Boosting Initiative**! As ZJU freshmen, we're passionate about making Chinese cuisine more accessible and enjoyable for international students. Through **culinary exploration** and **linguistic research**, we're bridging taste bud gaps one bite at a time! (˶ᵔ ᵕ ᵔ˶)
+Welcome to our **SQTP Dream Boosting Initiative**! 🎉
+
+We're ==**GastroSync SQTP Team**==, a group of ZJU freshmen passionate about making Chinese cuisine more accessible and enjoyable for international students. Through **culinary exploration** and **linguistic research**, we're bridging taste bud gaps one bite at a time! (˶ᵔ ᵕ ᵔ˶)
 
 ???+ tip "(づ> v <)づ🌈⛅️✨"
     <center>Food is the universal language, but sometimes we need a translator for our taste buds!✨</center>
